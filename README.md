@@ -30,12 +30,9 @@ RocketSeat GoStack BootCamp - Database Challenge
 * Delete a transaction by id
 * request.body - no body
 
-transactionsRouter.post(
-  '/import'
-
-
 
 #### Possible Improvements
-* Create customer model and authentication;
+* Create customer model and authentication system;
+* Add a JWT Token
 
 
