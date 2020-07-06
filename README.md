@@ -7,7 +7,7 @@ RocketSeat GoStack BootCamp - Database Challenge
 
 ## :star2: Features
 
-* :calendar:	Working on 06/07/2020
+:calendar:	Working on 06/07/2020
 
 #### POST: `localhost:3333/transactions`
 * Creates new rows in 2 of the database tables: 
