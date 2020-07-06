@@ -7,7 +7,8 @@ RocketSeat GoStack BootCamp - Database Challenge
 
 ## :star2: Features
 
-:calendar:	Working on 06/07/2020
+:calendar:	Working on 06/07/2020  
+:robot: Great combination with [my user interface project using React.js](https://github.com/GermainPereira/GoFinances)
 
 #### POST: `localhost:3333/transactions`
 * Creates new rows in 2 of the database tables: 
