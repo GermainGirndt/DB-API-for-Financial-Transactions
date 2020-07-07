@@ -21,7 +21,7 @@ RocketSeat GoStack BootCamp - Database Challenge
 
 #### POST (IMPORT): `localhost:3333/import/`
 * Imports all requests within a CSV file and adds them directly to the DB;
-* Request muss contain the file to be imported (see preview above);
+* Request must contain the file to be imported (see preview above);
 
 #### GET: `localhost:3333/transactions`
 * Returns list containing previous request and balance   
